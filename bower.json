@@ -1,0 +1,21 @@
+{
+  "name": "register-test-js",
+  "description": "Test project",
+  "main": "index.js",
+  "authors": [
+    "Steven Weng"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/StevenWeng/register-test-js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
